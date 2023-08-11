@@ -60,3 +60,18 @@
     color: red;
     font-size: 20px;
 }
+
+.thanaNumberLabel {
+  font-size: 20px;
+  padding-right: 10px;
+}
+
+.fireserviceLabel {
+  font-size: 20px;
+  padding-right: 20px;
+}
+
+.ambulanceLabel {
+  font-size: 20px;
+  padding-right: 20px;
+}
